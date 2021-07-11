@@ -1,2 +1,2 @@
 # Building-a-Handwritten-Digits-Classifier
-The goal of this Project is to build models that can classify handwritten digits using a K-Nearest Neighbors model and a Neural Network. The dataset used is a pre-loaded dataset in Scikit-learn
+The goal of this Project is to build models that can classify handwritten digits using a K-Nearest Neighbors model and a Neural Network. The dataset used is a pre-loaded dataset in Scikit-learn. Please refer to the [Jupyter Notebook](https://github.com/sahithi2990/Building-a-Handwritten-Digits-Classifier/blob/main/Building%20a%20Handwritten%20Digits%20Classifier.ipynb) for more information on this project.
